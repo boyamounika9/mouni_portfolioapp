@@ -14,7 +14,15 @@ This is a fully responsive and animated personal portfolio website designed to s
 - **Task**: 1 — Personal Portfolio Website with Advanced Animations  
 - **Internship Duration**: May 12, 2025 – July 12, 2025  
 
----
+<img width="1875" height="1031" alt="Screenshot 2025-07-12 173412" src="https://github.com/user-attachments/assets/a2bc3c88-ade6-4938-bef5-3735e9f385d9" />
+
+<img width="1883" height="309" alt="Screenshot 2025-07-12 173502" src="https://github.com/user-attachments/assets/af0ba2ef-8635-4ecc-abd0-adb3d19119b5" />
+
+<img width="1877" height="1036" alt="Screenshot 2025-07-12 173525" src="https://github.com/user-attachments/assets/0aa3e7de-5395-4993-9c38-93c49585ce78" />
+
+
+<img width="1868" height="908" alt="Screenshot 2025-07-12 173610" src="https://github.com/user-attachments/assets/df759617-a7c2-497b-afc0-9635370b7028" />
+
 
 ## ✨ Features
 
